@@ -1,1 +1,1 @@
-# css-practice
+it has two buttons about agreement
